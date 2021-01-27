@@ -1,7 +1,7 @@
 # ExamenMercadoLibre
 Mi resolución de un examen de MercadoLibre
 
-*Consigna[https://github.com/SJMartinez/ExamenMercadoLibre/blob/master/Examen%20Mercadolibre%20%20-%20Mutantes.pdf]
+[Consigna](https://github.com/SJMartinez/ExamenMercadoLibre/blob/master/Examen%20Mercadolibre%20%20-%20Mutantes.pdf)
 
 
 Se encuentra subido el primer nivel de la consigna, para mostrar la correcta funcionalidad de la estructura del algoritmo. La iteración se realiza sobre la matriz NXN 
